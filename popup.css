@@ -1,0 +1,19 @@
+body
+{
+	width: 400px;
+}
+div
+{
+	border: none;
+	width: 18%;
+	padding: 10px;
+	color: white;
+	background-color: black;
+    display: inline-block;
+}
+div:hover
+{
+	text-decoration: none;
+	cursor: pointer;
+	background-color: #ccc;
+}
